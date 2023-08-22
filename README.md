@@ -1,4 +1,4 @@
-**AVKN BOOSTER BOT**
+**Avakin Life XP GEMS BOOSTER BOT**
 
 This is a Discord bot developed using Python. The bot is designed to provide likes and views boosting services to premium users in a Discord server. It also offers some other features such as daily rewards for all users and premium-specific commands.
 
